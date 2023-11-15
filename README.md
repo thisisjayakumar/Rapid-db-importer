@@ -12,7 +12,7 @@ Welcome to RapidDB Importer, a high-performance file processing tool designed fo
 
 #### Instructions
 1. Ensure you have the required dependencies installed: `pip install -r requirements.txt`
-2. Run the script: `python file_processor.py`
+2. Run the script: `python3 file_processor.py`
 
 ### CSV Generator
 
