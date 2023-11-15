@@ -1,0 +1,4 @@
+psycopg
+pymysql
+
+#Need to setup a database MYSQL/NoSQL and table before processing the generated file
